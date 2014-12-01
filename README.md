@@ -1,7 +1,7 @@
 Algoritmo Genético Bovino
 ==
 
-O programa em si, foi desenvolvido inicialmente por Tássio Noronha e Rafael Barbosa, estudantes do curso de Sistemas de Informação na Universidade Federal da Bahia, para a matéria de Estrutura de Dados do semestre 2014.2.
+O programa em si, foi desenvolvido por estudantes do curso de Sistemas de Informação da Universidade Federal da Bahia, para a matéria de Estrutura de Dados do semestre 2014.2.
 
 O que o algoritmo pretende resolver?
 =
