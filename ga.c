@@ -3,12 +3,14 @@
 #include <time.h>
 
 typedef struct individuo{
-int genotipo[5];
-struct individuo *prox;
+    int genotipo[5];
+    struct individuo *prox;
+    int preco;
+    int avaliacao;
 }individuo;
 
 typedef struct populacao{
-struct individuo *inicio;
+    struct individuo *inicio;
 }populacao;
 
 individuo *cria_individuo();
