@@ -1,4 +1,4 @@
-Algortimo Genético Bovino
+Algoritimo Genético Bovino
 ==
 
 O programa em si, foi desenvolvido inicialmente por Tássio Noronha e Rafael Barbosa, estudantes do curso de Sistemas de Informação na Universidade Federal da Bahia, para a matéria de Estrutura de Dados do semestre 2014.2.
